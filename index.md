@@ -4,19 +4,23 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+Hello! My name is Afsara Benazir. I am currently a second-year PhD student in the Department of Computer Science at the [University of Virginia](https://www.virginia.edu/), advised by Prof. [Felix Xiaozhu Lin](https://fxlin.github.io/). Prior to this, I received my B.S. in Computer Science from [BUET](https://www.buet.ac.bd/web/#/) (Bangladesh University of Engineering and Technology) in 2021. 
+
+For more information, please check my CV.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+My research interest lies in the domain of Systems X Machine Learning with a particular focus on
 
-## News
+* Resource efficiency of foundation models
+* Speech: execution of deep models on-device
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+## What's New
+
+- **[11/2023]** Our paper titled 'Leveraging cache to enable SLU on tiny devices' is on [arxiv](https://arxiv.org/pdf/2311.18188.pdf)
+- **[10/2023]** Received faculty choice award at the poster presentation session of UVa [CSGSG Research Symposium](https://csgsg.org/symposium/)
+- **[10/2023]** Flash Talk presentation at Link Lab Research Day
+- **[08/2022]** Moving to Charlottesville and starting my PhD journey at UVa CS!
 
 {% include_relative _includes/publications.md %}
 
