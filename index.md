@@ -25,8 +25,5 @@ My research interest lies in the domain of Systems X Machine Learning with a par
 ## Selected Awards
 
 - **2022**: Computer Science Scholar Fellowship, University of Virginia
-  
-{% include_relative _includes/publications.md %}
 
-<! -- {% include_relative _includes/services.md %} -->
 
