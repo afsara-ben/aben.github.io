@@ -22,6 +22,11 @@ My research interest lies in the domain of Systems X Machine Learning with a par
 - **[10/2023]** Flash Talk presentation at Link Lab Research Day
 - **[08/2022]** Moving to Charlottesville and starting my PhD journey at UVa CS!
 
+## Selected Awards
+
+- **2022**: Computer Science Scholar Fellowship, University of Virginia
+  
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
+<! -- {% include_relative _includes/services.md %} -->
+
