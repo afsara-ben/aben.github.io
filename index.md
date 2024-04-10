@@ -6,7 +6,7 @@ layout: homepage
 
 Hello! My name is Afsara Benazir. I am currently a second-year PhD student in the Department of Computer Science at the [University of Virginia](https://www.virginia.edu/), advised by Prof. [Felix Xiaozhu Lin](https://fxlin.github.io/). Prior to this, I received my B.S. in Computer Science from [BUET](https://www.buet.ac.bd/web/#/) (Bangladesh University of Engineering and Technology) in 2021. 
 
-For more information, please check my CV.
+For more information, please check my [CV][https://drive.google.com/file/d/1bzx6RR0E4NC9gQ4YAzODydJnvjALcVKD/view?usp=sharing].
 
 ## Research Interests
 
