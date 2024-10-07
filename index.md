@@ -12,8 +12,9 @@ For more information, please check my [CV](https://drive.google.com/file/d/1mdnd
 
 My research interest lies in the domain of Systems X Machine Learning with a particular focus on
 
-* Speech: execution of deep models on-device
-* Resource efficiency of foundation models
+* Foundation LLMs and user privacy
+* Speech: Execution of deep models on-device
+* Resource Efficient Machine Learning
 
 ## Publications
 - Speech Understanding on Tiny Devices with A Learning Cache (MobiSys'24) [[pdf](https://arxiv.org/pdf/2311.18188.pdf)] \
