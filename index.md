@@ -23,7 +23,8 @@ My research interest lies in the domain of Systems X Machine Learning with a par
 Afsara Benazir, Sadia Sharmin
 
 ## Poster
-- Maximizing the Capabilities of Tiny Speech Foundation Models in a Privacy Preserving Manner (MobiCom'24)[[pdf](https://www.dropbox.com/scl/fi/8v54xoto0b34f7xew4a5s/2024_privacy_asr_tiny_poster_final.pdf?rlkey=w52i5xz149u1vuj638p2aiqnh&st=0fzwk4sf&dl=0)]
+- Maximizing the Capabilities of Tiny Speech Foundation Models in a Privacy Preserving Manner (MobiCom'24)[[pdf](https://www.dropbox.com/scl/fi/8v54xoto0b34f7xew4a5s/2024_privacy_asr_tiny_poster_final.pdf?rlkey=w52i5xz149u1vuj638p2aiqnh&st=0fzwk4sf&dl=0)] \
+ Afsara Benazir and Felix Xiaozhu Lin
 
   
 ## What's New
