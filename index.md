@@ -29,6 +29,7 @@ Afsara Benazir, Sadia Sharmin
 
   
 ## What's New
+- **[12/2024]** Served as an artifact reviewer for [PPoPP 2025](https://ppopp25.sigplan.org/)
 - **[10/2024]** Received a Student travel grant to attend MobiCom'24
 - **[10/2024]** Student committee chair (lightning talk segment) at [the 1st LLM workshop at UVA](https://uvanlp.org/llm-workshop-2024/)
 - **[10/2024]** Our poster 'Maximizing the Capabilities of Tiny Speech Foundation Models in a Privacy Preserving Manner' is accepted at [MobiCom'24](https://www.sigmobile.org/mobicom/2024/) [[pdf](https://www.dropbox.com/scl/fi/8v54xoto0b34f7xew4a5s/2024_privacy_asr_tiny_poster_final.pdf?rlkey=w52i5xz149u1vuj638p2aiqnh&st=0fzwk4sf&dl=0)] [[poster](https://www.dropbox.com/scl/fi/0qpjcwebqvwbggrxv6wpy/privacy_asr_2024_workshop.pdf?rlkey=yarnrvodjwkwrxnet4la5madq&st=smb67ywb&dl=0)]
