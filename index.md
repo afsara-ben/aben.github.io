@@ -6,19 +6,27 @@ layout: homepage
 
 Hello! My name is Afsara Benazir. I am currently a second-year PhD student in the Department of Computer Science at the [University of Virginia](https://www.virginia.edu/), advised by Prof. [Felix Xiaozhu Lin](https://fxlin.github.io/). Prior to this, I received my B.Sc. in Computer Science from [BUET](https://www.buet.ac.bd/web/#/) (Bangladesh University of Engineering and Technology) in 2021. 
 
-For more information, please check my [CV](https://drive.google.com/file/d/1EtNhgXKsLwrZrxg_1EmBYwcv8-vn_qE0/view?usp=sharing).
-
-## Research Interests
+For more information, please check my [CV](https://drive.google.com/file/d/1LJXcX0_hR5Pl9El1oNkvD1y06Oi2Ubff/view?usp=sharing).
 
 My research interest lies in the domain of Systems X Machine Learning with a particular focus on
 
+* Resource Efficiency
 * Foundation LLMs and user privacy
 * Speech: Execution of deep models on-device
-* Resource Efficient Machine Learning
+* Performance Analysis
 
 ## Publications
-- Speech Understanding on Tiny Devices with A Learning Cache (MobiSys'24) [[pdf](https://arxiv.org/pdf/2311.18188.pdf)] \
+- Speech Understanding on Tiny Devices with A Learning Cache **(MobiSys'24)** [[pdf](https://arxiv.org/pdf/2311.18188.pdf)] \
   Afsara Benazir, Zhiming Xu, Felix Xiaozhu Lin
+
+- Privacy-Preserving Edge Speech Understanding with Tiny Foundation Models [[arxiv](https://arxiv.org/pdf/2502.01649)]\
+  Afsara Benazir, Felix Xiaozhu Lin
+
+- Profiling Large Language Model Inference on Apple Silicon: A Quantization Perspective [[arxiv](https://arxiv.org/abs/2508.08531)] \
+  Afsara Benazir, Felix Xiaozhu Lin
+- A Journey of Modern OS Construction From boot to DOOM **(SOSP’25)**  [[arxiv](uhttps://arxiv.org/pdf/2504.17984)] 
+  Wonkyo Choe*, Rongxiang Wang*, Afsara Benazir*, Felix Xiaozhu Lin \
+  <sub> * Coprimary authors <\sub>
 
 - Credibility assessment of User Generated health information of the Bengali language in micro blogging sites using NLP techniques and Machine Learning (WI-IAT’20) (Workshop paper)  [[pdf](https://ieeexplore.ieee.org/document/9457807)] \
 Afsara Benazir, Sadia Sharmin
@@ -29,6 +37,8 @@ Afsara Benazir, Sadia Sharmin
 
   
 ## What's New
+- **[05/2025]** Officially a PhD candidate!
+- **[02/2025]** Mentored 2 Charlottesville high school students in Spring'25 developing an engineering capstone project.
 - **[12/2024]** Served as an artifact reviewer for [PPoPP 2025](https://ppopp25.sigplan.org/)
 - **[10/2024]** Received a Student travel grant to attend MobiCom'24
 - **[10/2024]** Student committee chair (lightning talk segment) at [the 1st LLM workshop at UVA](https://uvanlp.org/llm-workshop-2024/)
