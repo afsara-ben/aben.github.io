@@ -5,7 +5,6 @@ layout: homepage
 ## About Me
 
 Hello! My name is Afsara Benazir. I am currently a second-year PhD student in the Department of Computer Science at the [University of Virginia](https://www.virginia.edu/), advised by Prof. [Felix Xiaozhu Lin](https://fxlin.github.io/). Prior to this, I received my B.Sc. in Computer Science from [BUET](https://www.buet.ac.bd/web/#/) (Bangladesh University of Engineering and Technology) in 2021. 
-
 For more information, please check my [CV](https://drive.google.com/file/d/1LJXcX0_hR5Pl9El1oNkvD1y06Oi2Ubff/view?usp=sharing).
 
 My research interest lies in the domain of Systems X Machine Learning with a particular focus on
@@ -27,7 +26,7 @@ My research interest lies in the domain of Systems X Machine Learning with a par
   
 - A Journey of Modern OS Construction From boot to DOOM **(SOSP’25)**  [[arxiv](uhttps://arxiv.org/pdf/2504.17984)] 
   Wonkyo Choe*, Rongxiang Wang*, Afsara Benazir*, Felix Xiaozhu Lin \
-  <sub> * Coprimary authors <\sub>
+  <sub> * Coprimary authors 
   
 - Credibility assessment of User Generated health information of the Bengali language in micro blogging sites using NLP techniques and Machine Learning (WI-IAT’20) (Workshop paper)  [[pdf](https://ieeexplore.ieee.org/document/9457807)] \
 Afsara Benazir, Sadia Sharmin
