@@ -18,16 +18,17 @@ My research interest lies in the domain of Systems X Machine Learning with a par
 ## Publications
 - Speech Understanding on Tiny Devices with A Learning Cache **(MobiSys'24)** [[pdf](https://arxiv.org/pdf/2311.18188.pdf)] \
   Afsara Benazir, Zhiming Xu, Felix Xiaozhu Lin
-
+  
 - Privacy-Preserving Edge Speech Understanding with Tiny Foundation Models [[arxiv](https://arxiv.org/pdf/2502.01649)]\
   Afsara Benazir, Felix Xiaozhu Lin
-
+  
 - Profiling Large Language Model Inference on Apple Silicon: A Quantization Perspective [[arxiv](https://arxiv.org/abs/2508.08531)] \
   Afsara Benazir, Felix Xiaozhu Lin
+  
 - A Journey of Modern OS Construction From boot to DOOM **(SOSP’25)**  [[arxiv](uhttps://arxiv.org/pdf/2504.17984)] 
   Wonkyo Choe*, Rongxiang Wang*, Afsara Benazir*, Felix Xiaozhu Lin \
   <sub> * Coprimary authors <\sub>
-
+  
 - Credibility assessment of User Generated health information of the Bengali language in micro blogging sites using NLP techniques and Machine Learning (WI-IAT’20) (Workshop paper)  [[pdf](https://ieeexplore.ieee.org/document/9457807)] \
 Afsara Benazir, Sadia Sharmin
 
