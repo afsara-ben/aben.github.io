@@ -15,16 +15,18 @@ My research interest lies in the domain of Systems X Machine Learning with a par
 * Performance Analysis
 
 ## Publications
-- Speech Understanding on Tiny Devices with A Learning Cache **(MobiSys'24)** [[pdf](https://arxiv.org/pdf/2311.18188.pdf)] \
+- [[arxiv](https://arxiv.org/abs/2508.08531)] Profiling Large Language Model Inference on Apple Silicon: A Quantization Perspective  \
+  Afsara Benazir, Felix Xiaozhu Lin
+
+- [[arxiv](https://arxiv.org/pdf/2502.01649)] Privacy-Preserving Edge Speech Understanding with Tiny Foundation Models \
+  Afsara Benazir, Felix Xiaozhu Lin
+  
+- **[MobiSys'24]** Speech Understanding on Tiny Devices with A Learning Cache [[pdf](https://arxiv.org/pdf/2311.18188.pdf)] \
   Afsara Benazir, Zhiming Xu, Felix Xiaozhu Lin
+
   
-- Privacy-Preserving Edge Speech Understanding with Tiny Foundation Models [[arxiv](https://arxiv.org/pdf/2502.01649)]\
-  Afsara Benazir, Felix Xiaozhu Lin
   
-- Profiling Large Language Model Inference on Apple Silicon: A Quantization Perspective [[arxiv](https://arxiv.org/abs/2508.08531)] \
-  Afsara Benazir, Felix Xiaozhu Lin
-  
-- A Journey of Modern OS Construction From boot to DOOM **(SOSP’25)**  [[arxiv](https://arxiv.org/pdf/2504.17984)] \
+- **[SOSP’25]** A Journey of Modern OS Construction From boot to DOOM   [[arxiv](https://arxiv.org/pdf/2504.17984)] \
   Wonkyo Choe\*, Rongxiang Wang\*, Afsara Benazir\*, Felix Xiaozhu Lin \
   <sub> *Coprimary authors 
   
