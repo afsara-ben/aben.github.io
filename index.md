@@ -25,7 +25,7 @@ My research interest lies in the domain of Systems X Machine Learning with a par
   Afsara Benazir, Felix Xiaozhu Lin
   
 - A Journey of Modern OS Construction From boot to DOOM **(SOSP’25)**  [[arxiv](https://arxiv.org/pdf/2504.17984)] \
-  Wonkyo Choe*, Rongxiang Wang*, Afsara Benazir*, Felix Xiaozhu Lin \
+  Wonkyo Choe\*, Rongxiang Wang\*, Afsara Benazir\*, Felix Xiaozhu Lin \
   <sub> *Coprimary authors 
   
 - Credibility assessment of User Generated health information of the Bengali language in micro blogging sites using NLP techniques and Machine Learning (WI-IAT’20) (Workshop paper)  [[pdf](https://ieeexplore.ieee.org/document/9457807)] \
