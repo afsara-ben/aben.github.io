@@ -24,7 +24,7 @@ My research interest lies in the domain of Systems X Machine Learning with a par
 - Profiling Large Language Model Inference on Apple Silicon: A Quantization Perspective [[arxiv](https://arxiv.org/abs/2508.08531)] \
   Afsara Benazir, Felix Xiaozhu Lin
   
-- A Journey of Modern OS Construction From boot to DOOM **(SOSP’25)**  [[arxiv](uhttps://arxiv.org/pdf/2504.17984)] 
+- A Journey of Modern OS Construction From boot to DOOM **(SOSP’25)**  [[arxiv](uhttps://arxiv.org/pdf/2504.17984)] \
   Wonkyo Choe*, Rongxiang Wang*, Afsara Benazir*, Felix Xiaozhu Lin \
   <sub> * Coprimary authors 
   
