@@ -38,6 +38,9 @@ Afsara Benazir, Sadia Sharmin
 
   
 ## What's New
+- **[10/2025]** Our paper got accepted at SIGMETRICS'26!
+- **[10/2025]** Our paper got accepted at the Symposium on Edge Computing (SEC'25)!
+- **[10/2025]** Received faculty+audience choice award at the poster presentation session of UVa CS research symposium 2025! [[poster](https://drive.google.com/file/d/1czJDKZoXaiFse4LHWGvp15iAtVW9fNCH/view)]
 - **[05/2025]** Officially a PhD candidate!
 - **[02/2025]** Mentored 2 Charlottesville high school students in Spring'25 developing an engineering capstone project.
 - **[12/2024]** Served as an artifact reviewer for [PPoPP 2025](https://ppopp25.sigplan.org/)
