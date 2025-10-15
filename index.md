@@ -5,7 +5,7 @@ layout: homepage
 ## About Me
 
 Hello! My name is Afsara Benazir. I am currently a fourth-year PhD student in the Department of Computer Science at the [University of Virginia](https://www.virginia.edu/), advised by Prof. [Felix Xiaozhu Lin](https://fxlin.github.io/). Prior to this, I received my B.Sc. in Computer Science from [BUET](https://www.buet.ac.bd/web/#/) (Bangladesh University of Engineering and Technology) in 2021. 
-For more information, please check my [CV](https://drive.google.com/file/d/1LJXcX0_hR5Pl9El1oNkvD1y06Oi2Ubff/view?usp=sharing).
+For more information, please check my [CV](https://drive.google.com/file/d/1rHSGNY-xZLP-U0pMtrro3PKNzD7kqU0Q/view?usp=sharing).
 
 My research interest lies in the domain of Systems X Machine Learning with a particular focus on
 
