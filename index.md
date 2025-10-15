@@ -9,10 +9,10 @@ For more information, please check my [CV](https://drive.google.com/file/d/1LJXc
 
 My research interest lies in the domain of Systems X Machine Learning with a particular focus on
 
-* Resource Efficiency
-* Foundation LLMs and user privacy
-* Speech: Execution of deep models on-device
-* Performance Analysis
+* Efficient ML
+* On-Device AI and Foundation LLMs 
+* Speech: Execution of deep models on-device & user privacy
+* Performance modeling across heterogenous hardware
 
 ## Publications
 - **[SIGMETRICS'26]** Profiling Large Language Model Inference on Apple Silicon: A Quantization Perspective [[PDF](https://arxiv.org/abs/2508.08531)] \
