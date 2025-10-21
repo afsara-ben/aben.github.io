@@ -14,6 +14,8 @@ My research interest lies in the domain of Systems X Machine Learning with a par
 * Speech: Execution of deep models on-device & user privacy
 * Performance modeling across heterogenous hardware
 
+**I am seeking Spring/Summer AI/System Internship opportunities for 2026. Please feel free to reach out to me!**
+
 ## Publications
 - **[SIGMETRICS'26]** Profiling Large Language Model Inference on Apple Silicon: A Quantization Perspective [[PDF](https://arxiv.org/abs/2508.08531)] \
   Afsara Benazir, Felix Xiaozhu Lin
