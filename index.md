@@ -5,7 +5,7 @@ layout: homepage
 ## About Me
 
 Hello! My name is Afsara Benazir. I am currently a fourth-year PhD student in the Department of Computer Science at the [University of Virginia](https://www.virginia.edu/), advised by Prof. [Felix Xiaozhu Lin](https://fxlin.github.io/). Prior to this, I received my B.Sc. in Computer Science from [BUET](https://www.buet.ac.bd/web/#/) (Bangladesh University of Engineering and Technology) in 2021. 
-For more information, please check my [CV](https://drive.google.com/file/d/1rHSGNY-xZLP-U0pMtrro3PKNzD7kqU0Q/view?usp=sharing).
+For more information, please check my [CV](https://drive.google.com/file/d/1EWeLvZ1B-V3NF6R8ITuUBnl9J0RBm-Zm/view?usp=sharing).
 
 My research interest lies in the domain of Systems X Machine Learning with a particular focus on
 
@@ -13,6 +13,8 @@ My research interest lies in the domain of Systems X Machine Learning with a par
 * On-Device AI and Foundation LLMs 
 * Speech: Execution of deep models on-device & user privacy
 * Performance modeling across heterogenous hardware
+
+I am motivated to build efficient AI systems to ensure optimal LLM serving. I build software stacks for optimizing performance for AI inference workloads on resource constrained devices. Currently my research explores scalable Mixture-of-Experts (MoE) architectures, LLM inference, resource efficiency, privacy, edge speech understanding and large-scale system benchmarking of quantized foundation models. I have build resource efficient, privacy preserving edge/cloud frameworks for speech understanding tasks on voice assistants. 
 
 **I am seeking Spring/Summer AI/System Internship opportunities for 2026. Please feel free to reach out to me!**
 
