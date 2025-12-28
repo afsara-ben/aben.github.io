@@ -9,7 +9,7 @@ For more information, please check my [CV](https://drive.google.com/file/d/1rHSG
 
 My research interest lies in the domain of Systems X Machine Learning with a particular focus on
 
-* Efficient ML
+* ML acceleration
 * On-Device AI and Foundation LLMs 
 * Speech: Execution of deep models on-device & user privacy
 * Performance modeling across heterogenous hardware
@@ -17,16 +17,15 @@ My research interest lies in the domain of Systems X Machine Learning with a par
 **I am seeking Spring/Summer AI/System Internship opportunities for 2026. Please feel free to reach out to me!**
 
 ## Publications
-- **[SIGMETRICS'26]** Profiling Large Language Model Inference on Apple Silicon: A Quantization Perspective [[PDF](https://arxiv.org/abs/2508.08531)] \
+- **[SIGMETRICS'26]** Profiling Large Language Model Inference on Apple Silicon: A Quantization Perspective [[PDF](https://dl.acm.org/doi/pdf/10.1145/3771563)] \
   Afsara Benazir, Felix Xiaozhu Lin
 
-- **[SEC'25]** Privacy-Preserving Edge Speech Understanding with Tiny Foundation Models [[PDF](https://arxiv.org/pdf/2502.01649)] \
+- **[SEC'25]** Privacy-Preserving Edge Speech Understanding with Tiny Foundation Models [[PDF](https://dl.acm.org/doi/pdf/10.1145/3769102.3770609)] \
   Afsara Benazir, Felix Xiaozhu Lin
   
-- **[MobiSys'24]** Speech Understanding on Tiny Devices with A Learning Cache [[PDF](https://arxiv.org/pdf/2311.18188.pdf)] \
+- **[MobiSys'24]** Speech Understanding on Tiny Devices with A Learning Cache [[PDF](https://dl.acm.org/doi/pdf/10.1145/3643832.3661886)] \
   Afsara Benazir, Zhiming Xu, Felix Xiaozhu Lin
 
-  
 - **[SOSP’25]** A Journey of Modern OS Construction From boot to DOOM   [[PDF](https://dl.acm.org/doi/pdf/10.1145/3731569.3764811)] \
   Wonkyo Choe\*, Rongxiang Wang\*, Afsara Benazir\*, Felix Xiaozhu Lin \
   <sub> *Coprimary authors 
