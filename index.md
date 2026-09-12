@@ -16,7 +16,7 @@ My research interest lies in the domain of Systems X Machine Learning with a par
 
 I am motivated to build efficient AI systems to ensure optimal LLM serving. I build software stacks for optimizing performance for AI inference workloads on resource constrained devices. Currently my research explores scalable Mixture-of-Experts (MoE) architectures, LLM inference, resource efficiency, privacy, edge speech understanding and large-scale system benchmarking of quantized foundation models. I have build resource efficient, privacy preserving edge/cloud frameworks for speech understanding tasks on voice assistants. 
 
-**I am seeking Spring/Summer AI/System Internship opportunities for 2026. Please feel free to reach out to me!**
+**I am seeking full time Research Scientist positions. Please feel free to reach out to me!**
 
 ## Publications
 - **[SIGMETRICS'26]** Profiling Large Language Model Inference on Apple Silicon: A Quantization Perspective [[PDF](https://dl.acm.org/doi/pdf/10.1145/3771563)] \
@@ -41,6 +41,9 @@ Afsara Benazir, Sadia Sharmin
 
   
 ## What's New
+- **[09/2026]** Attended TAPIA 2026 conference.
+- **[05/2026]** Joined Netflix as an AI/ML Research Intern on the Netflix Games team, focusing on model optimization/speech steering.
+- **[02/2026]** Joined Sony AI as a Research Intern on the Privacy-Preserving ML (PPML) team.
 - **[10/2025]** Our paper got accepted at SIGMETRICS'26!
 - **[10/2025]** Our paper got accepted at the Symposium on Edge Computing (SEC'25)!
 - **[10/2025]** Received faculty+audience choice award at the poster presentation session of UVa CS research symposium 2025! [[poster](https://drive.google.com/file/d/1czJDKZoXaiFse4LHWGvp15iAtVW9fNCH/view)]
