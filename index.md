@@ -19,10 +19,10 @@ I am motivated to build efficient AI systems to ensure optimal LLM serving. I bu
 **I am seeking full time Research Scientist positions. Please feel free to reach out to me!**
 
 ## Publications
-- **[SIGMETRICS'26]** Profiling Large Language Model Inference on Apple Silicon: A Quantization Perspective [[PDF](https://dl.acm.org/doi/pdf/10.1145/3771563)] \
+- **[SIGMETRICS'26]** Benchmarking and Characterization of Large Language Model Inference on Apple Silicon [[PDF](https://dl.acm.org/doi/pdf/10.1145/3771563)] \
   Afsara Benazir, Felix Xiaozhu Lin
 
-- **[SEC'25]** Privacy-Preserving Edge Speech Understanding with Tiny Foundation Models [[PDF](https://dl.acm.org/doi/pdf/10.1145/3769102.3770609)] \
+- **[SEC'25]** Safeguarding Privacy in Edge Speech Understanding with Tiny Foundation Models [[PDF](https://dl.acm.org/doi/pdf/10.1145/3769102.3770609)] \
   Afsara Benazir, Felix Xiaozhu Lin
   
 - **[MobiSys'24]** Speech Understanding on Tiny Devices with A Learning Cache [[PDF](https://dl.acm.org/doi/pdf/10.1145/3643832.3661886)] \
@@ -63,4 +63,5 @@ Afsara Benazir, Sadia Sharmin
 
 - **2022**: Computer Science Scholar Fellowship, University of Virginia
 
-
+## Services
+- AE Reviewer - ASPLOS'27, SIGCOMM'26, CAIS'26, OSDI'26, PPoPP'26, PPoPP'25
